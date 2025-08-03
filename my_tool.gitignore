@@ -1,0 +1,15 @@
+# Ignore SSH keys
+.ssh/
+id_*
+*.key
+*.pem
+*.pub
+
+# Ignore Python/Windows files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+dist/
+build/

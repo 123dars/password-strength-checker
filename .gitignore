@@ -1,0 +1,7 @@
+# Ignore SSH keys and sensitive files
+*.pem
+*.key
+*.pub
+*.ppk
+id_*
+.ssh/
